@@ -1,0 +1,59 @@
+.container {
+    margin-top: 1em !important;
+}
+
+.vicino {
+    margin-top: 0 !important;
+    border-radius: 0 !important;
+}
+
+.tiny {
+    margin-bottom: 5px !important;
+}
+
+td {
+    font-size: small;
+}
+
+#f {
+    position: absolute !important;
+    top: 40px !important;
+    right: 46px !important;
+}
+
+#f img {
+    border-radius: 5px !important;
+}
+
+#bio {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+#wurbs,
+#nice,
+#kubera,
+#online,
+#presenza,
+#digitali,
+#linguistiche,
+#organizzative,
+#comunicative,
+#professionali,
+#privacy {
+    scroll-margin-top: 10px !important;
+}
+
+/* Media Query */
+@media screen and (max-width: 768px) {
+
+    #online tbody tr td:nth-child(1),
+    #presenza tbody tr td:nth-child(1) {
+        text-align: left;
+    }
+}
