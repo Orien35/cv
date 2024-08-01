@@ -30,6 +30,19 @@ td {
     margin-bottom: 2em;
 }
 
+.ui.dropdown {
+
+    font-size: 12px;
+
+}
+
+.ui.dropdown .menu>.item {
+
+    font-size: 12px;
+
+}
+
+
 /* Smooth scroll */
 html {
     scroll-behavior: smooth;
@@ -56,4 +69,10 @@ html {
     #presenza tbody tr td:nth-child(1) {
         text-align: left;
     }
+
+    .ui.dropdown {
+        visibility: hidden;
+        display: none!important;
+    }
+
 }
