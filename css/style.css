@@ -69,10 +69,4 @@ html {
     #presenza tbody tr td:nth-child(1) {
         text-align: left;
     }
-
-    .ui.dropdown {
-        visibility: hidden;
-        display: none!important;
-    }
-
 }
