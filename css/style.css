@@ -32,21 +32,15 @@ td {
 }
 
 .ui.dropdown {
-
     font-size: 12px;
-
 }
 
 .ui.dropdown .menu>.item {
-
     font-size: 12px;
-
 }
 
 .sub {
-
     font-weight: bold;
-
 }
 
 /* Smooth scroll */
