@@ -70,12 +70,19 @@ html {
         text-align: left;
     }
     
+    body {
+        background: #fff
+    }
 }
 
 @media screen and (max-width: 530px) {
     
    #start, #wurbs, #nice, #kubera, #digitali, #linguistiche, #altro, #online a, #online td, #presenza a, #presenza td, #privacy {
         font-size: 0.93em;
+    }
+    
+    body {
+        background: #fff
     }
 
 }
@@ -88,6 +95,10 @@ html {
     
     #f {
         display:none;
+    }
+    
+    body {
+        background: #27292a
     }
     
 }
