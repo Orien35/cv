@@ -77,7 +77,7 @@ html {
 
 @media screen and (max-width: 530px) {
     
-   #start, #wurbs, #nice, #kubera, #digitali, #linguistiche, #altro, #online a, #online td, #presenza a, #presenza td, #privacy {
+   #start, #wurbs, #nice, #kubera, #digitali, #linguistiche, #altro, #online a, #online td, #presenza a, #presenza td, #privacy, .header, .sub.header, .item {
         font-size: 0.93em;
     }
     
@@ -89,7 +89,7 @@ html {
 
 @media screen and (max-width: 460px) {
     
-    #start, #wurbs, #nice, #kubera, #digitali, #linguistiche, #altro, #online a, #online td, #presenza a, #presenza td, #privacy {
+    #start, #wurbs, #nice, #kubera, #digitali, #linguistiche, #altro, #online a, #online td, #presenza a, #presenza td, #privacy, .header, .sub.header, .item {
         font-size: 0.90em;
     }
     
